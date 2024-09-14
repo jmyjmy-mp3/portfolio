@@ -1,0 +1,33 @@
+/* styles-footer.css */
+
+/* Estilo para el footer */
+footer {
+    background-color: #f1f1f1; /* Color de fondo del footer */
+    padding: 1em; /* Espaciado interior */
+    text-align: center; /* Centra el contenido */
+    border-top: 1px solid #ddd; /* Línea superior para separar el footer del contenido */
+}
+
+/* Estilo para el párrafo con id 'frase' */
+#frase {
+    font-size: 18px; /* Tamaño de la fuente */
+    color: #333; /* Color del texto */
+    margin-bottom: 1em; /* Espacio inferior */
+    font-family: 'Roboto', sans-serif; /* Tipografía para el texto */
+}
+
+/* Estilo para el botón */
+button {
+    background-color: #003750; /* Color de fondo del botón */
+    color: white; /* Color del texto del botón */
+    border: none; /* Sin borde */
+    padding: 10px 20px; /* Espaciado interno del botón */
+    border-radius: 5px; /* Bordes redondeados */
+    cursor: pointer; /* Cursor en forma de mano */
+    font-size: 16px; /* Tamaño de la fuente */
+    font-family: 'Roboto', sans-serif; /* Tipografía del botón */
+}
+
+button:hover {
+    background-color: #0056b3; /* Color de fondo cuando el botón está en hover */
+}
